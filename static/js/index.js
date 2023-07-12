@@ -117,3 +117,10 @@ menu.addEventListener("click", function () {
 window.addEventListener('scroll', () => {
   handleNavScroll()
 })
+
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
