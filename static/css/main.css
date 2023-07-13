@@ -339,7 +339,7 @@ footer .container {
 }
 
 footer .social-media {
-  display: flex;
+  display: none;
   margin-left: -0.5rem;
 }
 
