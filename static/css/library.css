@@ -17,7 +17,7 @@ html {
 }
 
 .intro-image img {
-  width: 50%;
+  width: 100%;
   background-color: var(--grey-color);
 }
 
@@ -74,7 +74,7 @@ details .text:first-of-type {
 
 .text-header {
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 800;
   margin: 0;
 }
 
