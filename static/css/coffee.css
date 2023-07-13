@@ -13,7 +13,7 @@
   color: var(--background-color);
   background-color: var(--secondary-color) !important;
   border-radius: 12px;
-  font-size: 28px;
+  font-size: 18px;
   font-weight: Normal;
   border: none;
   padding: 12px 24px;
@@ -21,7 +21,7 @@
   text-decoration: none !important;
   display: inline-flex !important;
   align-items: center;
-  font-family: "Cookie", cursive !important;
+  <!-- font-family: "Cookie", cursive !important; -->
   -webkit-box-sizing: border-box !important;
   box-sizing: border-box !important;
 }
