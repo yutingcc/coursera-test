@@ -28,3 +28,15 @@
   height: 50%;
   transition: max-width 500ms, background-color 500ms, color 500ms;
 }
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.flex-row-reverse-between {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+}
