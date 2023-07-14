@@ -19,7 +19,7 @@
   padding: 12px 24px;
   line-height: 27px;
   text-decoration: none !important;
-  display: inline-flex !important;
+  display: inline-flex;
   align-items: center;
   <!-- font-family: "Cookie", cursive !important; -->
   -webkit-box-sizing: border-box !important;
@@ -34,7 +34,6 @@
 }
 
 .bmc-btn-text {
-  　<!-- margin-left: 15px; -->
   display: inline-block;
   line-height: 0;
   width: 100%;
