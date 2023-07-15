@@ -10,6 +10,7 @@ html {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  max-width: 960px;
 }
 
 .intro-image {
