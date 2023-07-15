@@ -48,6 +48,7 @@ html {
 .intro .bold-text {
   font-size: 1rem;
   color: var(--grey-text);
+  width: 70vw;
 }
 
 .main-text p {
