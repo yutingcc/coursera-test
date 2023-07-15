@@ -19,6 +19,7 @@ html {
 .intro-image img {
   width: 100%;
   background-color: var(--grey-color);
+  max-width: 960px;
 }
 
 .intro {
