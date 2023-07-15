@@ -40,7 +40,7 @@ html {
   color: var(--shade-500);
 }
 
-.section-title{
+.intro .section-title {
   margin-top: 0;
   font-size: 3rem;
   font-weight: 600;
