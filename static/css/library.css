@@ -42,11 +42,11 @@ html {
 }
 
 .intro .section-title {
-  font-size: 5rem;
+  font-size: 5.5rem;
 }
 
 .intro .bold-text {
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: var(--grey-text);
 }
 
