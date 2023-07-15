@@ -13,13 +13,15 @@ html {
 }
 
 .intro-image {
-  flex: 1 1 960px;
+  flex: 1 1 1280px;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .intro-image img {
   width: 100%;
   background-color: var(--grey-color);
-  max-width: 960px;
 }
 
 .intro {
