@@ -26,11 +26,11 @@ html {
 
 .intro {
   margin-left: 0;
-  flex: 1 1 50%;
+  flex: 1 1 60%;
 }
 
 .intro p {
-  max-width: 20ch；
+  max-width: 40ch；
 }
 
 .intro .large-text {
