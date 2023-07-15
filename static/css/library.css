@@ -40,6 +40,13 @@ html {
   color: var(--shade-500);
 }
 
+.section-title{
+  margin-top: 0;
+  font-size: 3rem;
+  font-weight: 600;
+  color: var(--shade-500);
+}
+
 .intro .bold-text {
   font-size: 0.8rem;
   color: var(--grey-text);
